@@ -1,4 +1,4 @@
-# NN
+# DIANA CAROLINA GUARIN ANGULO
 
 ## Bio
 
@@ -6,7 +6,7 @@
 
 ## Contributions
 
-papers, blogs, research, free software...
+nada...
 
 ## Hobbies
 
